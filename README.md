@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Meu nome é Gustavo Rodrigues, e sou um entusiasta no mundo da <strong>programação</strong> com disposição a aprender.
-  Estou cursando <strong>Análise e Desenvolvimento de Sistemas.</strong> 
+  Meu nome é Gustavo Rodrigues, e sou um entusiasta no mundo da <strong>programação</strong> com disposição a aprender.<br/>
+  Estou cursando <strong>Análise e Desenvolvimento de Sistemas.</strong> <br/>
   E ainda não atuo na área, infelizmente.
 </p>
 
