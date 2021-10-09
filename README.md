@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Meu nome é Gustavo Rodrigues, e sou um entusiasta no mundo da <strong>programação</strong>. 
+  Meu nome é Gustavo Rodrigues, e sou um entusiasta no mundo da <strong>programação</strong> com disposição a aprender.
   Estou cursando <strong>Análise e Desenvolvimento de Sistemas.</strong> 
   E ainda não atuo na área, infelizmente.
 </p>
@@ -19,7 +19,7 @@
 </p>
 
 <p align="left">
-  <a href="#" alt="Gmail">
+  <a href="gustarozko@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
   <a href="#" alt="Linkedin">
